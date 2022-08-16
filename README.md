@@ -28,8 +28,6 @@
         </div>
     </main>
 </body>
-
-</html>
 <style>
 
     .galeria {
@@ -82,3 +80,5 @@ img{
     opacity: 1;
 }
 </style>
+
+</html>
