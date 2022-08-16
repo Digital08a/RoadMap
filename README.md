@@ -28,8 +28,8 @@
         </div>
     </main>
 </body>
-<style>
 
+<style>
     .galeria {
         border: 1px solid;
     border-radius: 10px;
